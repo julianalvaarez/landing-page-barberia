@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)) , url("/fondo.webp") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo {
+    letter-spacing: 1px;
+}
+
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
+
+html {
+    scroll-behavior: smooth;
+}
