@@ -1,6 +1,6 @@
 export const Header = () => {
   function openWhatsapp() {
-    window.open("https://wa.me/5491173604311?text=Hola,%me%gustaria%agendar%un%turno%para%el%dia%...%");
+    window.open("https://wa.me/5491150069305?text=Hola, me gustaria agendar un turno para el dia ... ");
   }
   return (
     <main class="header mt-10 h-[80vh] lg:mx-48 sm:w-auto" id="home">
