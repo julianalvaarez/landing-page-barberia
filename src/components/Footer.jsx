@@ -24,7 +24,7 @@ export const Footer = () => {
         </div>
         <div className="flex items-center gap-1">
           <BsWhatsapp />
-          <a href="https://wa.me/1173604311?text=Hola" target="_BLANK" className="hover:underline">11-5006-9305</a>
+          <a href="https://wa.me/5491173604311?text=Hola,%me%gustaria%agendar%un%turno%para%el%dia%...%" target="_BLANK" className="hover:underline">11-5006-9305</a>
         </div>
       </div>
     </footer>
